@@ -34,15 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulahad24711&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahad24711&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
