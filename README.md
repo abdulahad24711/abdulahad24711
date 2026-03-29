@@ -31,6 +31,7 @@
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-18117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-006ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
@@ -57,6 +58,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulahad24711&theme=tokyonight&row=1&column=6" />
-</p>
